@@ -1,6 +1,7 @@
 /*
 Little and simple Testing Unit, for a simple use in small personal applications
 Copyright 2015, Clement Artaud
+Version : 1.0.0
 */
 
 function it(should, operator, val, testFunc){
